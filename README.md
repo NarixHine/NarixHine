@@ -9,5 +9,5 @@ Why? Long story. But I have to say that I'm not a proper coder, coding is just a
 ## Reach me
 
 - Skype (recommended): [Narix Hine](https://join.skype.com/invite/psWFZkola5ac)
-- Misskey (trivial): [@NH](https://misskey.cloud/@NH)
+- Misskey (trivial): [@NH](https://misskey.dev/@NH)
 - E-mail (I'm a bit sociophobic): [lettres@narix.link](mailto:lettres@narix.link)
