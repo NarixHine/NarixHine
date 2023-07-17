@@ -1,4 +1,4 @@
-# Hi! NiHao! ![NH](https://github.com/NarixHine/NarixHine/assets/127665924/bbfa9268-1a0c-447a-ae1e-61c0688b6f19)
+# Hi! ![NH](https://github.com/NarixHine/NarixHine/assets/127665924/bbfa9268-1a0c-447a-ae1e-61c0688b6f19)
 
 ## About me
 
@@ -9,4 +9,4 @@ Why? Long story. But I have to say that I'm not a proper coder, coding is just a
 ## Reach me
 
 - Skype (recommended): [Narix Hine](https://join.skype.com/invite/psWFZkola5ac)
-- E-mail: [narixhine@icloud.com](mailto:narixhine@icloud.com)
+- E-mail: [lettres@narix.link](mailto:lettres@narix.link)
