@@ -1,8 +1,6 @@
 ## About me
 
-I'm Narix Hine, primarily a student, and a language learner: JavaScript, Typescript, ~~English, Chinese, Japanese, French~~.
-
-Why? Long story. But I have to say that I'm not a proper coder, coding is no more than a means.
+I'm Narix Hine, primarily a language learner: JavaScript, Typescript, ~~English, Chinese, Japanese, French~~.
 
 ## Maintaining projects
 
@@ -21,4 +19,4 @@ Why? Long story. But I have to say that I'm not a proper coder, coding is no mor
 ## Reach me
 
 - Skype: [Narix Hine](https://join.skype.com/invite/psWFZkola5ac)
-- E-mail: [lettres@narix.link](mailto:lettres@narix.link)
+- E-mail: [life@leaving.ink](mailto:life@leaving.ink)
