@@ -18,5 +18,5 @@ I'm Narix Hine, primarily a language learner: JavaScript, Typescript, ~~English,
 
 ## Reach me
 
-- Skype: [Narix Hine](https://join.skype.com/invite/psWFZkola5ac)
 - E-mail: [life@leaving.ink](mailto:life@leaving.ink)
+- iMessage: narixhine@icloud.com
