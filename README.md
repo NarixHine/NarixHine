@@ -19,4 +19,3 @@ I'm Narix Hine, primarily a language learner: JavaScript, Typescript, ~~English,
 ## Reach me
 
 - E-mail: [life@leaving.ink](mailto:life@leaving.ink)
-- iMessage: narixhine@icloud.com
