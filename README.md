@@ -2,7 +2,7 @@
 
 I'm Narix Hine, primarily a language learner: JavaScript, Typescript, ~~English, Chinese, Japanese, French~~.
 
-Currently building: **language learning platform [`Leximory`](https://leximory.com/)**.
+Currently building: **[`Frella`](https://frella.me/)**.
 
 ## Get in touch
 
